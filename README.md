@@ -1,5 +1,5 @@
 # image_proccesor
-C++ console bmp file proccesor
+C++ CLI bmp file proccesor
 # Functional
 The program takes as input two paths(absolute/relative): path to BMP file and path for saving result and any quantity of filters as options. The program applies the specified filters to the image and saves the result.
 |Filter|Filter_tag|Parameters|Type of parameters|
